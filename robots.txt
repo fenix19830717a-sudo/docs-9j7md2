@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-swjyot.salamkita.cfd/sitemap.xml
